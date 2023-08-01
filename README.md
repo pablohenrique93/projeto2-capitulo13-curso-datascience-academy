@@ -17,4 +17,4 @@
 - 10 - Qual o total de vendas por categoria e Subcategoria, considerando somente as Top 12 SubCategorias? Demonstre tudo através de um único gráfico.
 
 
-### PS: As repostas das perguntas e seus códigos se encontram no caderno "project_2_ds4_exploratory_data_analysis" deste repositório. O dataset utilizado neste projeto encontra-se na pasta "src"
+### PS: As repostas das perguntas e seus códigos se encontram no caderno "project_2_dsa_exploratory_data_analysis" deste repositório. O dataset utilizado neste projeto encontra-se na pasta "src"
